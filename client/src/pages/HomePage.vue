@@ -9,6 +9,8 @@
         class="rounded-circle">
       <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
         Vue 3 Starter
+        I cant serve this because of the error Uncaught TypeError: Failed to resolve module specifier
+        "@mdi/font/css/materialdesignicons.css". Relative references must start with either "/", "./", or "../".
       </h1>
     </div>
   </div>
